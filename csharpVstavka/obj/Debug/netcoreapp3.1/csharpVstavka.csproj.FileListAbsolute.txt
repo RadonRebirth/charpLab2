@@ -1,0 +1,14 @@
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\bin\Debug\netcoreapp3.1\csharpVstavka.exe
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\bin\Debug\netcoreapp3.1\csharpVstavka.deps.json
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\bin\Debug\netcoreapp3.1\csharpVstavka.runtimeconfig.json
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\bin\Debug\netcoreapp3.1\csharpVstavka.runtimeconfig.dev.json
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\bin\Debug\netcoreapp3.1\csharpVstavka.dll
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\bin\Debug\netcoreapp3.1\csharpVstavka.pdb
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\obj\Debug\netcoreapp3.1\csharpVstavka.csproj.AssemblyReference.cache
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\obj\Debug\netcoreapp3.1\csharpVstavka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\obj\Debug\netcoreapp3.1\csharpVstavka.AssemblyInfoInputs.cache
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\obj\Debug\netcoreapp3.1\csharpVstavka.AssemblyInfo.cs
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\obj\Debug\netcoreapp3.1\csharpVstavka.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\obj\Debug\netcoreapp3.1\csharpVstavka.dll
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\obj\Debug\netcoreapp3.1\csharpVstavka.pdb
+C:\Users\IVM505\source\repos\csharpVstavka\csharpVstavka\obj\Debug\netcoreapp3.1\csharpVstavka.genruntimeconfig.cache
